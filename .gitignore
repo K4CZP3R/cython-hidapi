@@ -21,3 +21,6 @@ venv/
 
 # Doc output
 docs/_build
+
+
+hid.*.so
